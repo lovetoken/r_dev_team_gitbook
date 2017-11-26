@@ -24,7 +24,7 @@ R언어라는 공통분모를 통해서 모두가 같이 시너지를 내고 개
 * YoungJun Na
 * all\_thinks
 * Kwon4509
-* Eunkwang
+* [Eunkwang](https://github.com/eunkwang)
 * GiSub Lee
 
 
