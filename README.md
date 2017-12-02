@@ -21,7 +21,7 @@ R언어라는 공통분모를 통해서 모두가 같이 시너지를 내고 개
 ## 참여 멤버 \(2017-11-21 기준\)
 
 * [HyoJin Song](https://github.com/lovetoken)
-* YoungJun Na
+* [YoungJun Na](https://github.com/youngjunna)
 * all\_thinks
 * Kwon4509
 * [Eunkwang](https://github.com/eunkwang)
