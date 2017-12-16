@@ -18,6 +18,17 @@ R언어라는 공통분모를 통해서 모두가 같이 시너지를 내고 개
 
 ## 
 
+## 완성된 기능에 대한 소스코드 R package 를 통한 공유
+
+```
+devtools::install_github("lovetoken/rdevteam")
+library(rdevteam)
+```
+
+을 통하여 R에서 소스코드 및 기능들에 대한 함수를 배포하고 공유합니다.
+
+## 
+
 ## 참여 멤버 \(2017-11-21 기준\)
 
 * [HyoJin Song](https://github.com/lovetoken)
